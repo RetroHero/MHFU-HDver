@@ -1,5 +1,5 @@
 # MHFU-HDver.
-##Upscaling Textures of Monster Hunter Freedom Unite
+## Upscaling Textures of Monster Hunter Freedom Unite
 
 **Project created to attempt to preserve the visual and artistic identity of the game's original textures.**
 
