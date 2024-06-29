@@ -14,3 +14,27 @@ I had to use (Monster Hunter Dos) and (Monster Hunter Frontier) as sources, game
 Even so, many textures had to be corrected manually. I'm still not confident about their quality, but I believe that this work has already produced better results than other options out there.
 
 I hope you like it!!!
+
+## In Progress
+
+### Stages
+
+:white_check_mark:Village
+:white_square_button:SnwMountains
+:white_square_button:Jungle
+:white_square_button:Desert
+:white_square_button:Swamp
+:white_square_button:Volcano
+:white_square_button:Forest&Hills
+:white_square_button:OldJungle
+:white_square_button:OldDesert
+:white_square_button:OldSwamp
+:white_square_button:OldVulcano
+:white_square_button:Tower
+:white_square_button:GrtForest
+:white_square_button:Arena
+:white_square_button:Battleground
+:white_square_button:Fortress
+:white_square_button:Town
+:white_square_button:Castle
+:white_square_button:SnwMountPeak
