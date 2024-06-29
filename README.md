@@ -14,6 +14,10 @@ I had to use (Monster Hunter Dos) and (Monster Hunter Frontier) as sources, game
 Even so, many textures had to be corrected manually. I'm still not confident about their quality, but I believe that this work has already produced better results than other options out there.
 
 I hope you like it!!!
+![01](https://github.com/RetroHero/MHFU-HDver/assets/85602531/207524c5-b10b-495c-8195-0e51d1071ea8)
+![02](https://github.com/RetroHero/MHFU-HDver/assets/85602531/461d83ca-1b1b-496d-8e95-e73e5d4c4abc)
+![03](https://github.com/RetroHero/MHFU-HDver/assets/85602531/73f988d3-2469-4e6b-b38f-0fe1d50bc008)
+![04](https://github.com/RetroHero/MHFU-HDver/assets/85602531/d39e4ffc-26b5-45cf-aa2b-01db59823400)
 
 ## In Progress
 
